@@ -1,0 +1,181 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #d8d5cc;
+  margin: 0;
+}
+
+script {
+  display: none;
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.IntroName {
+    text-align: center;
+}
+  
+p {
+    color: black;
+}
+  
+.Introduction {
+  background-color: aliceblue; 
+  width: 400px;
+  margin: 4rem auto;
+  padding: 1rem 2rem 1rem 2rem;
+  border-radius: 0.5rem;
+  box-shadow: #b3aead 0px 50px 100px -20px, #333333 0px 30px 60px -30px, #b3aead 0px -2px 6px 0px inset;  
+  border-style: solid;
+  border-width: 4px;
+  border-color: #585343;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+button {
+  font-family: Georgia;
+  align-items: center;
+  background-color: #585343;
+  border: none;
+  color: aliceblue;
+  padding: 1vw 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: solid 2px #434858;
+  border-radius: 5%;
+  justify-content: space-around;
+  position: relative;
+  top: 50%;
+  left: 17%;
+  right: 50%;
+}
+
+.buttons {
+  position: relative;
+  padding-left: 70px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+
+nav {
+  position: sticky;
+  border: solid 2px #585343;
+  background-color: #585343;
+  justify-content: space-around;
+  height: 64px;
+  vertical-align: middle;
+}
+
+nav a {
+  z-index: -10;
+  -webkit-animation: fill 1s forwards;
+  -moz-animation: fill 1s forwards;
+  animation: fill 1s forwards;
+  opacity: 1;
+  color: aliceblue;
+  z-index: 1;
+  text-align: left;
+  content: '.';
+  margin: 0;
+}
+
+#top-right {
+  float: right;
+  padding-top: 1.3%;
+}
+
+.logo {
+  height: 60px;
+  width: 250px;
+}
+
+@media screen and (max-width: 500px) {
+  .mainNav a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+.mainNav a {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+.footer {
+  margin-bottom: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #A0B58C;
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 5px;
+}
+
+.bottomIcons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottomIcons img {
+  height: 40px;
+  width: 40px;
+}
+
+.bottom-box {
+  size: 2px;
+}
+
+.skillIcons img {
+  width: 75px;
+  height: 75px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.column {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+}
+
+.gooTitle {
+  text-align: center;
+}
+
+#pipeLeft {
+  position: relative;
+  width: 25%;
+  float: center;
+}
+
+#pipeRight {
+  position: relative;
+  width: 25%;
+  float: center;
+}
