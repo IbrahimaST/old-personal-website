@@ -1,0 +1,95 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #d8d5cc;
+    padding-bottom: 73px;
+    /* #F1EFEC,#989281,#819498,#888198 */
+}
+
+hr {
+    width: 500px;
+    border: solid 1px #585343;
+}
+
+nav {
+  position: static;
+  top: 0;
+  z-index: 1000;
+  border: solid 2px #585343;
+  background-color: #585343;
+  justify-content: space-around;
+  height: 64px;
+  vertical-align: middle;
+}
+
+.mainNav {
+  display: flex;
+  width: 40vw;
+  justify-content: space-around;
+  overflow: auto;
+  width: 33.33%;
+  text-align: right;
+}
+
+.AboutMe {
+    text-align: center;
+    float: center;
+    justify-content: flex-start;
+    flex: content;
+    flex-direction: column;
+  }
+
+  a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
+
+.centerHeader, .centerBodyPrjcts {
+  text-align: center;
+  float: center;
+  justify-content: flex-start;
+  flex: content;
+  flex-direction: column;
+}
+
+.techEnd {
+  height: 50px;
+  width: 50px;
+}
+
+.centerBody {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+#sarcasm {
+  padding: 2px;
+}
+
+.description {
+  text-align: center;
+  float: center;
+  justify-content: flex-start;
+  flex: content;
+  flex-direction: column;
+  padding-right: 2px;
+}
+
+#pipeDesc, #houseDesc {
+  padding-bottom: 20px;
+}
+
+li {
+  padding-bottom: 2px;
+}
