@@ -16,4 +16,4 @@ development, UI/UX design, and software engineering.</p>
   recruiters with an experiential view of my skills and experiences. 
 </p>
 
-<a href="[github.com/IBRAH](https://ibrahimast.github.io/IbrahimaST/)" align="center" target="_blank">Explore my webpage for a glimpse into my world.</a>
+<span align="center"><a href="[github.com/IBRAH](https://ibrahimast.github.io/IbrahimaST/)" target="_blank">Explore my webpage for a glimpse into my world.</a></span>
