@@ -1,4 +1,4 @@
-<h1 align="center">Ibrahima.. Who Are You?</h1>
+<h1 align="center">Ibrahima's Showcase – Who Are You?</h1>
 
 <p align="center">Thanks for stopping by! I am Ibrahima, a rising sophomore at Northeastern 
 University on an academic journey — actively seeking practical experience to have 
