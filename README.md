@@ -1,11 +1,11 @@
 <h1 align="center">Ibrahima's Showcase – Who Are You?</h1>
 
-<p align="center">Thanks for stopping by! I am Ibrahima, a rising sophomore at Northeastern 
+<p>Thanks for stopping by! I am Ibrahima, a rising sophomore at Northeastern 
 University on an academic journey — actively seeking practical experience to have 
 a meaningful impact in the field of software development through front-end 
 development, UI/UX design, and software engineering.</p>
 
-<p align="center">
+<p>
   Introducing my W.A.Y. – a dynamic portfolio website showcasing who I am 
   as a person and a programmer. Using front-end development, I highlight my 
   achievements, interests in computer science, and fun facts like my favorite foods.
