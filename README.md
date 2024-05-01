@@ -15,4 +15,4 @@ development, UI/UX design, and software engineering.</p>
   users with a clear view of my skills and experiences. 
 </p>
 
-<p align="center"><a href="[github.com/IBRAH](https://ibrahimast.github.io/IbrahimaST/)" target="_blank">Explore my webpage for a glimpse into my world.</a></p>
+<p align="center"><a href="https://ibrahimast.github.io/IbrahimaST/" target="_blank">Explore my webpage for a glimpse into my world.</a></p>
