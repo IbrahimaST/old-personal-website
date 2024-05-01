@@ -5,7 +5,7 @@ University on an academic journey — actively seeking practical experience to h
 a meaningful impact in the field of software development through front-end 
 development, UI/UX design, and software engineering.</p>
 
-<p>
+<p align="center">
   Introducing my W.A.Y. – a dynamic portfolio website showcasing "Ibrahima Toure" 
   as both a person and a programmer. Using front-end development, I highlight my 
   achievements, interests in computer science, and fun facts like my favorite foods.
@@ -16,4 +16,4 @@ development, UI/UX design, and software engineering.</p>
   recruiters with an experiential view of my skills and experiences. 
 </p>
 
-<a href="[github.com/IBRAH](https://ibrahimast.github.io/IbrahimaST/)">Explore my webpage for a glimpse into my world.</a>
+<a href="[github.com/IBRAH](https://ibrahimast.github.io/IbrahimaST/)" align="center" target="_blank">Explore my webpage for a glimpse into my world.</a>
