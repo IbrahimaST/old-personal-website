@@ -6,14 +6,13 @@ a meaningful impact in the field of software development through front-end
 development, UI/UX design, and software engineering.</p>
 
 <p align="center">
-  Introducing my W.A.Y. – a dynamic portfolio website showcasing "Ibrahima Toure" 
-  as both a person and a programmer. Using front-end development, I highlight my 
+  Introducing my W.A.Y. – a dynamic portfolio website showcasing who I am 
+  as a person and a programmer. Using front-end development, I highlight my 
   achievements, interests in computer science, and fun facts like my favorite foods.
   Through HTML, CSS, and JavaScript, the site features multiple pages linked via 
-  a navigation bar or buttons, offering insight into my personality, abilities, 
-  and accomplishments such as “About”, “Projects”, and “Skills + Experience”. 
-  With a clean, modern aesthetic and intuitive layout, this website provides 
-  recruiters with an experiential view of my skills and experiences. 
+  a navigation bar, offering insight into my personality, abilities, and accomplishments such as “About”,
+  “Projects”, and “Skills + Experience”. With a clean, particular aesthetic and layout, my website provides
+  users with a clear view of my skills and experiences. 
 </p>
 
-<span align="center"><a href="[github.com/IBRAH](https://ibrahimast.github.io/IbrahimaST/)" target="_blank">Explore my webpage for a glimpse into my world.</a></span>
+<p align="center"><a href="[github.com/IBRAH](https://ibrahimast.github.io/IbrahimaST/)" target="_blank">Explore my webpage for a glimpse into my world.</a></p>
