@@ -5,7 +5,7 @@ University on an academic journey — actively seeking practical experience to h
 a meaningful impact in the field of software development through front-end 
 development, UI/UX design, and software engineering.</p>
 
-<p align="center"><img src="Images/HomePage_ScrnShot.png" height="400px" width="450px" alt="Home Page"></p>
+<p align="center"><img src="Images/HomePage_ScrnShot.png" height="700px" width="750px" alt="Home Page"></p>
 
 
 <p>
