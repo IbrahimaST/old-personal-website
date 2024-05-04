@@ -5,6 +5,9 @@ University on an academic journey — actively seeking practical experience to h
 a meaningful impact in the field of software development through front-end 
 development, UI/UX design, and software engineering.</p>
 
+<p align="center"><img src="Images/HomePage_ScrnShot.png" alt="Home Page"></p>
+
+
 <p>
   Introducing my W.A.Y. – a dynamic portfolio website showcasing who I am 
   as a person and a programmer. Using front-end development, I highlight my 
